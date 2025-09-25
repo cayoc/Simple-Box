@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Simple Box",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "700480fc-dd7c-4db4-ba38-696f9aea9e92",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
